@@ -1,0 +1,20 @@
+@charset "utf-8"
+
+// Import a Google Font
+@import url('https://fonts.googleapis.com/css?family=Nunito:400,700');
+
+$navbar-height: 1.25rem !default 
+
+// Update Bulma's global variables
+$family-sans-serif: "Nunito", sans-serif;
+
+@import 'bulma/bulma.sass'
+
+//- Full Page Height
+=___gatsby
+  &div
+    min-height: 100vh
+    display: flex
+    flex-direction: column
+  .site-content
+    flex: 1
