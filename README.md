@@ -16,7 +16,7 @@
 
 ## Demo
 
-[Check out on Netlify](https://confident-jackson-1abf0f.netlify.com)
+[Check out on Netlify](https://gatsby-fresh-starter.netlify.com/)
 
 ## Dev environment
 
