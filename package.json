@@ -1,8 +1,8 @@
 {
-  "name": "xylo-gatsby-bulma-starter",
-  "description": "Gatsby starter with Bulma",
+  "name": "fresh-gatsby-bulma-starter",
+  "description": "Gatsby starter with Bulma Fresh Theme (CSS Ninja)",
   "version": "1.0.0",
-  "author": "Deepak Seth <deepak.seth@xydac.com>",
+  "author": "Nghia Chung <chnghia@gmail.com>",
   "dependencies": {
     "bulma": "^0.7.1",
     "font-awesome": "^4.7.0",
